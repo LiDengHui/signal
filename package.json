@@ -37,5 +37,6 @@
   },
   "peerDependencies": {
     "@dhlx/event-target": "^0.0.1"
-  }
+  },
+  "description": "A lightweight reactive data library providing Signal and Computed objects for state management and automatic updates, tracking dependencies and simplifying data handling."
 }
